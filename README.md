@@ -1,2 +1,2 @@
 # djando-tutorial
-Learning with the official Django documentation.
+Learning with the official Django documentation!
